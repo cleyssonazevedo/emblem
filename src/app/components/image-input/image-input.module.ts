@@ -9,6 +9,6 @@ import { SafeURLModule } from '../../pipes';
     SafeURLModule
   ],
   declarations: [ImageInputComponent],
-  exports: [ ImageInputComponent ]
+  exports: [ImageInputComponent]
 })
 export class ImageInputModule { }
